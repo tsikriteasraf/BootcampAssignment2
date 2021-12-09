@@ -5,6 +5,8 @@ namespace StartAssignment
 {
     class Course
     {
+ 
+
         public string Title { get; set; }
 
         public string Stream { get; set; }
