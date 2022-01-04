@@ -17,7 +17,6 @@ namespace StartAssignment
         static void Main(string[] args)
         {
             Application.Run();
-           
         }
     }
     class Application

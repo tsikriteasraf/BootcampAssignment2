@@ -1,0 +1,14 @@
+C:\Users\Rafael\source\repos\StartAssignment\StartAssignment\bin\Debug\StartAssignment.exe.config
+C:\Users\Rafael\source\repos\StartAssignment\StartAssignment\bin\Debug\StartAssignment.exe
+C:\Users\Rafael\source\repos\StartAssignment\StartAssignment\bin\Debug\StartAssignment.pdb
+C:\Users\Rafael\source\repos\StartAssignment\StartAssignment\obj\Debug\StartAssignment.csproj.AssemblyReference.cache
+C:\Users\Rafael\source\repos\StartAssignment\StartAssignment\obj\Debug\StartAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\StartAssignment\StartAssignment\obj\Debug\StartAssignment.exe
+C:\Users\Rafael\source\repos\StartAssignment\StartAssignment\obj\Debug\StartAssignment.pdb
+C:\Users\Rafael\source\repos\TsikriteasRafailAssignmentPartA\StartAssignment\bin\Debug\StartAssignment.exe.config
+C:\Users\Rafael\source\repos\TsikriteasRafailAssignmentPartA\StartAssignment\bin\Debug\StartAssignment.exe
+C:\Users\Rafael\source\repos\TsikriteasRafailAssignmentPartA\StartAssignment\bin\Debug\StartAssignment.pdb
+C:\Users\Rafael\source\repos\TsikriteasRafailAssignmentPartA\StartAssignment\obj\Debug\StartAssignment.csproj.AssemblyReference.cache
+C:\Users\Rafael\source\repos\TsikriteasRafailAssignmentPartA\StartAssignment\obj\Debug\StartAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\TsikriteasRafailAssignmentPartA\StartAssignment\obj\Debug\StartAssignment.exe
+C:\Users\Rafael\source\repos\TsikriteasRafailAssignmentPartA\StartAssignment\obj\Debug\StartAssignment.pdb
